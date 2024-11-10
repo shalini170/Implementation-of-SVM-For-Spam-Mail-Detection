@@ -62,7 +62,7 @@ accuracy
 ## Output:
 ![Screenshot 2024-11-10 133439](https://github.com/user-attachments/assets/6dcea11f-8765-48b5-8bcf-720b083f8adc)
 
-![Screenshot 2024-11-10 133451](https://github.com/user-attachments/assets/2cdb092a-6671-4ab9-b44d-9d1724e2f91e
+![Screenshot 2024-11-10 133451](https://github.com/user-attachments/assets/2cdb092a-6671-4ab9-b44d-9d1724e2f91e)
 
 ![Screenshot 2024-11-10 133500](https://github.com/user-attachments/assets/76e9bb9c-9665-40d8-b2b0-20af13a5506f)
 
